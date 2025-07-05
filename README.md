@@ -1,69 +1,54 @@
-<div align="center">
-<h1>
-¡Hola, soy Damián Vásquez! 👋
-</h1>
-<h3>
-Ingeniero de Sistemas | Desarrollador de Software Full-Stack
-</h3>
-</div>
+# 👋 ¡Hola! Soy Damián Vásquez
 
-👨‍💻 Sobre Mí
-Soy un apasionado Ingeniero de Sistemas con 3 años de experiencia inmerso en el mundo del desarrollo de software. Mi viaje ha sido una emocionante aventura, adaptándome y dominando nuevas tecnologías para construir soluciones robustas y eficientes tanto en el frontend como en el backend.
+### 💻 Ingeniero de Sistemas | Fullstack Developer | Apasionado por la tecnología
 
-Me defino como un profesional autodidacta y proactivo, con una mentalidad de aprendizaje continuo. Disfruto enfrentando desafíos, colaborando en equipo y llevando las ideas desde el concepto hasta el despliegue.
+Soy ingeniero de sistemas con más de 3 años de experiencia en el desarrollo de software, trabajando tanto en el frontend como en el backend. A lo largo de mi carrera he participado en diversos proyectos que me han retado a adaptarme a distintas tecnologías y metodologías, lo que ha fortalecido mi capacidad de aprendizaje y resolución de problemas.
 
-🚀 Mi Stack Tecnológico
-Lenguajes de Programación:
+---
 
-🐘 PHP
+## 🧠 Sobre mí
 
-📜 JavaScript & TypeScript
+- 🎯 Autodidacta y apasionado por el aprendizaje constante  
+- 🚀 Me encanta participar en proyectos que representen un reto  
+- 👥 Trabajo bien en equipo y aplico metodologías ágiles como Scrum  
+- 🛠️ Me adapto fácilmente a nuevas tecnologías  
 
-🐍 Python
+---
 
-♯ C#
+## 🧰 Tecnologías con las que he trabajado
 
-🎯 Dart
+### 💻 Lenguajes de Programación:
+- PHP, JavaScript, TypeScript  
+- Python, C#, Dart, C++, Java  
 
-➕ C++
+### 🗃️ Bases de Datos:
+- MySQL, PostgreSQL, SQL Server  
 
-☕ Java
+### 🧩 Frameworks y Librerías:
+- React, Angular, Vue.js  
 
-Desarrollo Frontend:
+### ☁️ Cloud & DevOps:
+- Google Cloud Services  
+- VPS, Ubuntu Server  
 
-⚛️ React
+### 🛠️ Herramientas:
+- Git (GitHub, Bitbucket)  
+- Figma, Postman  
+- Jira, Trello  
 
-🅰️ Angular
+---
 
-🖼️ Vue.js
+## 📫 ¿Cómo contactarme?
 
-Bases de Datos:
+- 📧 Correo: [damianvzch@gmail.com](mailto:damianvzch@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/damianvzch](https://www.linkedin.com/in/damianvzch)
 
-🐬 MySQL
+---
 
-🐘 PostgreSQL
+## ✨ Un plus sobre mí
 
-🗄️ SQL Server
+Me gusta explorar nuevas herramientas, frameworks y lenguajes. Creo firmemente en la mejora continua y en compartir conocimientos con la comunidad. Estoy abierto a nuevas oportunidades y colaboraciones en proyectos desafiantes.
 
-Herramientas, Cloud y Metodologías:
+---
 
-🔧 Git (GitHub & Bitbucket)
-
-☁️ Google Cloud Services
-
-🐧 Linux Ubuntu Server
-
-🎨 Figma
-
-📮 Postman
-
-agile Scrum (Jira & Trello)
-
-📫 ¡Conectemos!
-¡Siempre estoy abierto a colaborar en proyectos interesantes o simplemente a charlar sobre tecnología! Encuéntrame en:
-
-<p align="center">
-<a href="https://www.linkedin.com/in/damianvzch/" target="_blank">💼 LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="mailto:damianvzch@gmail.com">📧 Correo</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.google.com/search?q=https://wa.me/51997289559" target="_blank">💬 WhatsApp</a>
-</p>
+> “El aprendizaje constante es la clave para mantenerse relevante en un mundo en constante cambio.” — Damián Vásquez
