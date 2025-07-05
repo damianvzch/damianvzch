@@ -2,7 +2,7 @@
 
 ### 💻 Ingeniero de Sistemas | Fullstack Developer | Apasionado por la tecnología
 
-Soy ingeniero de sistemas con más de 3 años de experiencia en el desarrollo de software, trabajando tanto en el frontend como en el backend. A lo largo de mi carrera he participado en diversos proyectos que me han retado a adaptarme a distintas tecnologías y metodologías, lo que ha fortalecido mi capacidad de aprendizaje y resolución de problemas.
+Soy ingeniero de sistemas con más de 5 años de experiencia en el desarrollo de software, trabajando tanto en el frontend como en el backend. A lo largo de mi carrera he participado en diversos proyectos que me han retado a adaptarme a distintas tecnologías y metodologías, lo que ha fortalecido mi capacidad de aprendizaje y resolución de problemas.
 
 ---
 
