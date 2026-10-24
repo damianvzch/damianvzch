@@ -1,54 +1,69 @@
-# 👋 ¡Hola! Soy Damián Vásquez
+<h1 align="center">👋 ¡Hola! Soy Damián Vásquez</h1>
 
-### 💻 Ingeniero de Sistemas | Fullstack Developer | Apasionado por la tecnología
+<h3 align="center">Ingeniero de Sistemas | Desarrollador Fullstack | AI Engineer 🤖</h3>
 
-Soy ingeniero de sistemas con más de 5 años de experiencia en el desarrollo de software, trabajando tanto en el frontend como en el backend. A lo largo de mi carrera he participado en diversos proyectos que me han retado a adaptarme a distintas tecnologías y metodologías, lo que ha fortalecido mi capacidad de aprendizaje y resolución de problemas.
+<p align="center">
+  <a href="https://damianvzch.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/damianvzch" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:damianvzch@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ## 🧠 Sobre mí
 
-- 🎯 Autodidacta y apasionado por el aprendizaje constante  
-- 🚀 Me encanta participar en proyectos que representen un reto  
-- 👥 Trabajo bien en equipo y aplico metodologías ágiles como Scrum  
-- 🛠️ Me adapto fácilmente a nuevas tecnologías  
+Soy Ingeniero de Sistemas con más de **5 años de experiencia** diseñando, automatizando y escalando soluciones de software B2B. Me especializo en transformar requerimientos complejos en ecosistemas eficientes (APIs REST, Microservicios) bajo **principios SOLID y arquitecturas limpias**. 
+
+Actualmente, destaco por mi capacidad para **integrar herramientas de Inteligencia Artificial** en flujos de desarrollo, despliegues Cloud y proyectos de investigación orientados al IoT.
+
+- 🚀 **Enfoque actual:** Integración de IA (OpenAI, LangChain, Prompt Engineering) y arquitecturas escalables en la nube.
+- 🔬 **Investigación (I+D+i):** Coinvestigador en proyectos de IA e IoT para el monitoreo ambiental.
+- ⚙️ **Metodologías:** Scrum, CI/CD, Arquitectura de Microservicios.
+- 🤝 **Comunidad:** Expositor internacional y apasionado por compartir conocimientos tecnológicos.
 
 ---
 
-## 🧰 Tecnologías con las que he trabajado
+## 🧰 Stack Tecnológico
 
-### 💻 Lenguajes de Programación:
-- PHP, JavaScript, TypeScript  
-- Python, C#, Dart, C++, Java  
+### 🤖 Inteligencia Artificial & Data
+`OpenAI API` · `LangChain` · `ChatGPT` · `GitHub Copilot` · `Prompt Engineering`
 
-### 🗃️ Bases de Datos:
-- MySQL, PostgreSQL, SQL Server  
+### 💻 Backend & Bases de Datos
+`Nest.js` · `Laravel 12` · `.NET Core / C#` · `Python (Django)` · `Node.js (Express)`  
+`PostgreSQL` · `MySQL` · `SQL Server` · `MongoDB` · `Firebase`
 
-### 🧩 Frameworks y Librerías:
-- React, Angular, Vue.js  
+### 🎨 Frontend & Mobile
+`Next.js` · `Astro` · `React` · `Vue 3` · `Angular` · `Tailwind CSS`  
+`Flutter` · `React Native` 
 
-### ☁️ Cloud & DevOps:
-- Google Cloud Services  
-- VPS, Ubuntu Server  
-
-### 🛠️ Herramientas:
-- Git (GitHub, Bitbucket)  
-- Figma, Postman  
-- Jira, Trello  
+### ☁️ Cloud, DevOps & Redes
+`Google Cloud Platform (GCP)` · `AWS (EC2, S3)` · `Docker` · `GitHub Actions` · `GitLab CI/CD` · `Linux (Ubuntu)` · `Cisco`
 
 ---
 
-## 📫 ¿Cómo contactarme?
+## 🏆 Logros Destacados
 
-- 📧 Correo: [damianvzch@gmail.com](mailto:damianvzch@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/damianvzch](https://www.linkedin.com/in/damianvzch)
-
----
-
-## ✨ Un plus sobre mí
-
-Me gusta explorar nuevas herramientas, frameworks y lenguajes. Creo firmemente en la mejora continua y en compartir conocimientos con la comunidad. Estoy abierto a nuevas oportunidades y colaboraciones en proyectos desafiantes.
+*   **Migración a Microservicios (GCP):** Lideré la modernización de una plataforma B2B, migrando de monolito a microservicios en GCP y reduciendo costos operativos en un 20%.
+*   **Investigación Financiada (I+D+i):** Coinvestigador adjudicado en el diseño de arquitectura IoT/IA para el monitoreo inteligente de la calidad del agua (2026).
+*   **Optimización con IA:** Incrementé la productividad de desarrollo en un 25% integrando GitHub Copilot y automatización de código.
+*   **Innovación en Salud:** Desarrollo de sistema automatizado con Python y Arduino para triaje hospitalario, reduciendo tiempos de espera en un 78%.
 
 ---
 
-> “El aprendizaje constante es la clave para mantenerse relevante en un mundo en constante cambio.” — Damián Vásquez
+## 📫 Contacto y Enlaces
+
+¿Tienes un proyecto desafiante, una propuesta de innovación o simplemente quieres hablar de tecnología e IA? ¡Contáctame!
+
+- 📧 **Correo:** [damianvzch@gmail.com](mailto:damianvzch@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/damianvzch](https://www.linkedin.com/in/damianvzch)
+- 🌐 **Web Personal:** [damianvzch.github.io](https://damianvzch.github.io)
+
+---
+
+> *"El aprendizaje constante y la adaptación tecnológica son la clave para transformar desafíos complejos en soluciones innovadoras."*
